@@ -1,18 +1,18 @@
 {
-  "name": "ELGAZAR_BOTV6",
+  "name": "Medo-BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Babelhara/BOT_ELGAZARV8",
-  "logo": "https://telegra.ph/file/86f4d8e6bfb7ba044994f.jpg",
+  "repository": "////",
+  "logo": "https://i.imgur.com/hWioz5C.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/clng/heoku-buildpack-webp-binaries.git"
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://github.com/clng/heoku-buildpack-webp-binaries.git"
     }
   ],
 "addons": [
